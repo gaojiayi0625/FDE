@@ -11,6 +11,7 @@
 - [公开 Demo](https://sonnyboy061117-cmd.github.io/huaheng-order-change-impact-demo/)
 - [完整暂存仓库](https://github.com/sonnyboy061117-cmd/huaheng-order-change-impact-demo)
 - [目标仓库 Issue #1](https://github.com/gaojiayi0625/FDE/issues/1)
+- [贡献 PR #2](https://github.com/gaojiayi0625/FDE/pull/2)
 
 [![在线 Demo 截图](docs/evidence/demo-online.png)](https://sonnyboy061117-cmd.github.io/huaheng-order-change-impact-demo/)
 
